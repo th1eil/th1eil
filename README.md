@@ -9,14 +9,24 @@
 </p>
   
 <a href="https://zh.wikipedia.org/wiki/%E7%B6%BE%E6%B3%A2%E9%9B%B6">
-   <img src="https://pic2.zhimg.com/v2-aa6490783b00fb1733e8b52f2f657647_xll.jpg" align="right"  width="25%" />
+   <img src="https://github.com/th1eil/th1eil/blob/master/assets/019_Der_Mond_Yoshiyuki_Sadamoto_018.jpg" align="right"  width="50%" />
 </a>
 
 <br/>
+
+- game lovers
+- code enthusiasts
+- keep dreaming & going
+
+to do:
+克服客体恒常性缺失
+补完
 
 **BEST WISHES for you, my friends :)**
 
 <br/>
 
+![](https://raw.githubusercontent.com/th1eil/th1eil/master/profile-summary-card-output/blue_green/3-stats.svg) 
+![](https://raw.githubusercontent.com/th1eil/th1eil/master/profile-summary-card-output/blue_green/2-most-commit-language.svg)
 ![](https://raw.githubusercontent.com/th1eil/th1eil/master/profile-summary-card-output/blue_green/0-profile-details.svg)
 
