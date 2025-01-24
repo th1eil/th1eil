@@ -26,7 +26,7 @@ TODO:
 
 <br/>
 
-![](https://raw.githubusercontent.com/th1eil/th1eil/master/profile-summary-card-output/blue_green/3-stats.svg) 
-![](https://raw.githubusercontent.com/th1eil/th1eil/master/profile-summary-card-output/blue_green/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/th1eil/th1eil/master/profile-summary-card-output/blue_green/0-profile-details.svg)
+![](https://raw.githubusercontent.com/th1eil/th1eil/master/profile-summary-card-output/rose_pine/3-stats.svg) 
+![](https://raw.githubusercontent.com/th1eil/th1eil/master/profile-summary-card-output/rose_pine/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/th1eil/th1eil/master/profile-summary-card-output/rose_pine/0-profile-details.svg)
 
