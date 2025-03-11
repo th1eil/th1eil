@@ -14,7 +14,7 @@
 
 <br/>
 
-访问[我的Blog](https://th1eil.github.io/)
+访问[th1eil的Blog](https://th1eil.github.io/)
 - game lovers
 - code enthusiasts
 - keep dreaming & going
