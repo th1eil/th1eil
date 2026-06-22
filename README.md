@@ -29,5 +29,11 @@ TODO:
 
  
  ![](https://github-readme-stats.vercel.app/api?username=th1eil&show_icons=true&bg_color=191724&title_color=9ccfd8&text_color=e0def4&icon_color=ebbcba&hide_border=true&border_radius=5)
+
+<br/>
+ 
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=th1eil&layout=compact&bg_color=191724&title_color=9ccfd8&text_color=e0def4&hide_border=true&border_radius=5)
+ 
+<br/>
+ 
  ![](https://github-readme-streak-stats.herokuapp.com/?user=th1eil&bg_color=191724&title_color=9ccfd8&text_color=e0def4&border=ebbcba&hide_border=true&border_radius=5)
