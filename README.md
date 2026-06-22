@@ -27,7 +27,7 @@ TODO:
 
 <br/>
 
-![](https://raw.githubusercontent.com/th1eil/th1eil/master/profile-summary-card-output/rose_pine/3-stats.svg) 
-![](https://raw.githubusercontent.com/th1eil/th1eil/master/profile-summary-card-output/rose_pine/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/th1eil/th1eil/master/profile-summary-card-output/rose_pine/0-profile-details.svg)
-
+ 
+ ![](https://github-readme-stats.vercel.app/api?username=th1eil&show_icons=true&bg_color=191724&title_color=9ccfd8&text_color=e0def4&icon_color=ebbcba&hide_border=true&border_radius=5)
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=th1eil&layout=compact&bg_color=191724&title_color=9ccfd8&text_color=e0def4&hide_border=true&border_radius=5)
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=th1eil&bg_color=191724&title_color=9ccfd8&text_color=e0def4&border=ebbcba&hide_border=true&border_radius=5)
