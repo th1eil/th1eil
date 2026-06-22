@@ -9,7 +9,7 @@
 </p>
   
 <a href="https://zh.wikipedia.org/wiki/%E7%B6%BE%E6%B3%A2%E9%9B%B6">
-   <img src="https://github.com/th1eil/th1eil/blob/master/assets/019_Der_Mond_Yoshiyuki_Sadamoto_018.jpg" align="right"  width="50%" />
+   <img src="https://github.com/th1eil/th1eil/blob/master/assets/019_Der_Mond_Yoshiyuki_Sadamoto_018.jpg" align="right"  width="30%" />
 </a>
 
 <br/>
